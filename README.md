@@ -12,6 +12,8 @@ in order to preserving natural file name ordering for consumption by that system
 For example, exported image files from a presentation (Slide01, Slide02 ... Slide 50 etc) for use in a digital
 signage system which uses ASCII order to determine display order.
 
+Uses the [naturally](https://github.com/dogweather/naturally/) to perform the sorting.
+
 Installation
 ------------
 1. Build natural_rename
